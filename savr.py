@@ -314,7 +314,9 @@ def reddit_csv():
     posts.to_csv('old_posts.csv')
 
 
-if __name__ != "__main__":
+if __name__ == "__main__":
     gui()
     # get_reddit_data(items)
     # reddit_csv()
+else:
+    print('Run me as the main program!')
