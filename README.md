@@ -2,6 +2,7 @@
 Python script fetching data from r/buildapcsales with ai for product recommendation 
 
 Built for San Diego State University's Spring 2021 AI Hackathon
+(Received 1st Place)
 
 Contributers:
 Ian Reichard
